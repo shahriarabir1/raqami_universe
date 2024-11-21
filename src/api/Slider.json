@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "url": "/image4.png",
+      "height": 314,
+      "width": 48
+    },
+    {
+      "url": "/image5.png",
+      "height": 304,
+      "width": 46
+    },
+    {
+      "url": "/image6.png",
+      "height": 123,
+      "width": 32
+    },
+    {
+      "url": "/image7.png",
+      "height": 145,
+      "width": 32
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "images": [
+    {
+      "url": "/java.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/js.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/advancesql.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/frontendreact.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/mastersql.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/ML.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/ractproject.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/Pandas.png",
+      "height": 740,
+      "width": 1200
+    },
+    {
+      "url": "/reactredux.jpg",
+      "height": 720,
+      "width": 950
+    },
+    {
+      "url": "/sqlhacker.PNG",
+      "height": 720,
+      "width": 950
+    }
+  ]
+}

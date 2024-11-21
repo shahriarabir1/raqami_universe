@@ -1,0 +1,20 @@
+[
+  {
+    "image": "/hrlogo2.png",
+    "color": "#5945C31A",
+    "rating": "3 star for solving issues",
+    "text": "Award by Hacker Rank"
+  },
+  {
+    "image": "/udemy2.png",
+    "color": "#0F993E1A",
+    "rating": "Software Development Expert",
+    "text": "Certified by Udemy"
+  },
+  {
+    "image": "/kaggle.png",
+    "color": "#FF3D2E1A",
+    "rating": "Machine Learning Expert",
+    "text": "Award by Kaggle"
+  }
+]
